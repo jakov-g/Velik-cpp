@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\honi nigger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB66E278-DA6B-46E7-90D1-3434ED524878}|honi nigger.vcxproj|C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\honi nigger\\honi nigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB66E278-DA6B-46E7-90D1-3434ED524878}|honi nigger.vcxproj|solutionrelative:honi nigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "honi nigger.cpp",
+              "DocumentMoniker": "C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\honi nigger\\honi nigger.cpp",
+              "RelativeDocumentMoniker": "honi nigger.cpp",
+              "ToolTip": "C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\honi nigger\\honi nigger.cpp",
+              "RelativeToolTip": "honi nigger.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T09:30:38.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
