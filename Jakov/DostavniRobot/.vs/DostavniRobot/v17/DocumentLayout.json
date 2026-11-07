@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\DostavniRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B237BA-EB64-421B-ACE9-638DFF4489E8}|DostavniRobot.vcxproj|C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\DostavniRobot\\DostavniRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5B237BA-EB64-421B-ACE9-638DFF4489E8}|DostavniRobot.vcxproj|solutionrelative:DostavniRobot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DostavniRobot.cpp",
+              "DocumentMoniker": "C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\DostavniRobot\\DostavniRobot.cpp",
+              "RelativeDocumentMoniker": "DostavniRobot.cpp",
+              "ToolTip": "C:\\Users\\ucenik\\source\\repos\\Velik-cpp-repo\\Jakov\\DostavniRobot\\DostavniRobot.cpp",
+              "RelativeToolTip": "DostavniRobot.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T09:43:59.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
